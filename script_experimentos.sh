@@ -3,7 +3,7 @@
 #SBATCH -n 1 -c 64 -t 02:00:00 --mem=256G
 # Ponemos nombre a nuestro trabajo para poder identificarlo.
 # ATENCIÓN - Debes sustituir el NN por el número de equipo.
-#SBATCH --job-name p1acgNN
+#SBATCH --job-name p1acg09
 
 # Sustituir los valores de Di y Li por los calculados para la realización de la práctica.
 
