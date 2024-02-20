@@ -1,0 +1,20 @@
+1) Calculamos S1 y S2 en script.bash; DONE
+2) Con esto calculamos los valores de L; DONE 
+3) Decidir los valores de D en script.sh
+4) Calcular a partir de los valores de L los valores de R en el programa .c (de forma que cada acceso
+se corresponda a un total de L lineas caché)
+5) Con los valores de R y D, tenemos el vector ind[]-----> El valor de D debemos decidirlo para que   
+
+
+
+Valores de D
+1)Localidad temporal -> mismo dato en el array/distinto dato en el array
+2)Localidad espacial -> datos en la misma linea/datos en distinta linea
+3)Localidad secuencial -> 
+
+A[0], A[D], A[2D], A[3D],....,A[(R-1)*D]
+
+
+D=0----->accedemos al mismo dato 
+D=2⁰=1---->accedemos de forma seceuncial a los elementos, cada 8 bytes tenemos un double (probablemente estén la la misma línea caché)
+D=2³=8---->accedemos a un elementos que están en distintas lineas caché (el tamaño de línea caché es de 64 bytes)
