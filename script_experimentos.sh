@@ -13,22 +13,24 @@ FLAGS="-msse3 -O0"
 
 # Variantes de compilación para cambiar el comportamiento del programa.
 # Comentar y descomentar para cambiar el funcionamiento.
-FLAGS+=" -D USE_INT"				# Usar datos de tipo int en lugar de double
-FLAGS+=" -D DIRECT_ACCESS"		# Utilizar referencias directas a los elementos de A[] en lugar de a través del vector de índices
+# FLAGS+=" -D USE_INT"				# Usar datos de tipo int en lugar de double
+# FLAGS+=" -D DIRECT_ACCESS"		# Utilizar referencias directas a los elementos de A[] en lugar de a través del vector de índices
 
 gcc acp1.c -o acp1 $FLAGS
+
+
 
 S1=$[$(getconf LEVEL1_DCACHE_SIZE)/$(getconf LEVEL1_DCACHE_LINESIZE)]
 S2=$[$(getconf LEVEL2_CACHE_SIZE)/$(getconf LEVEL2_CACHE_LINESIZE)]
 
-#Repetimos el experimento 10 veces
+# Repetimos el experimento 10 veces
 for i in {1..10}
 do
-	for D in {$[1<<0],$[1<<],$[1<<],$[1<<],$[1<<]}
+	for D in {$[1<<0],$[1<<1],$[1<<2],$[1<<3],$[1<<5]}
 	do
 		for L in {$[$S1/2],$[3*$S1/2],$[$S2/2],$[3*$S2/4],$[2*$S2],$[4*$S2],$[8*S2]}
 		do
-			./acp1 $D $L
+			./acp1 $D $L 
 		done
 	done
 done
