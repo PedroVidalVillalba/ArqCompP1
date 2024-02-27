@@ -15,6 +15,7 @@ FLAGS="-msse3 -O0"
 # Comentar y descomentar para cambiar el funcionamiento.
 # FLAGS+=" -D USE_INT"				# Usar datos de tipo int en lugar de double
 # FLAGS+=" -D DIRECT_ACCESS"		# Utilizar referencias directas a los elementos de A[] en lugar de a través del vector de índices
+FLAGS+=" $@"                         # Añadir los parámetros de entrada del shell a la compilación
 
 gcc acp1.c -o acp1 $FLAGS
 
