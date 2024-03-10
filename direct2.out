@@ -1,0 +1,1428 @@
+slurmstepd: info: Setting TMPDIR to /scratch/6159453. Previous errors about TMPDIR can be discarded
+Parameters:D=1,L=384,R=3065
+ Clocks=229200.0000000000 
+ ClocksPerAcccessToA=7.4779771615
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=659880.0000000000 
+ ClocksPerAcccessToA=7.1655988707
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5898822.0000000000 
+ ClocksPerAcccessToA=7.2013257969
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8831828.0000000000 
+ ClocksPerAcccessToA=7.1877694856
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23609122.0000000000 
+ ClocksPerAcccessToA=7.2050861682
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47165972.0000000000 
+ ClocksPerAcccessToA=7.1970330494
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94372584.0000000000 
+ ClocksPerAcccessToA=7.2000952154
+
+Parameters:D=8,L=384,R=384
+ Clocks=27418.0000000000 
+ ClocksPerAcccessToA=7.1401041667
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83606.0000000000 
+ ClocksPerAcccessToA=7.2574652778
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=748816.0000000000 
+ ClocksPerAcccessToA=7.3126562500
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1119634.0000000000 
+ ClocksPerAcccessToA=7.2892838542
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=3011118.0000000000 
+ ClocksPerAcccessToA=7.3513623047
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=6031258.0000000000 
+ ClocksPerAcccessToA=7.3623754883
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=11980438.0000000000 
+ ClocksPerAcccessToA=7.3122790527
+
+Parameters:D=32,L=384,R=384
+ Clocks=27818.0000000000 
+ ClocksPerAcccessToA=7.2442708333
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83794.0000000000 
+ ClocksPerAcccessToA=7.2737847222
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=811928.0000000000 
+ ClocksPerAcccessToA=7.9289843750
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1193030.0000000000 
+ ClocksPerAcccessToA=7.7671223958
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3400484.0000000000 
+ ClocksPerAcccessToA=8.3019628906
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8972592.0000000000 
+ ClocksPerAcccessToA=10.9528710937
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27693374.0000000000 
+ ClocksPerAcccessToA=16.9026940918
+
+Parameters:D=128,L=384,R=384
+ Clocks=28198.0000000000 
+ ClocksPerAcccessToA=7.3432291667
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=87334.0000000000 
+ ClocksPerAcccessToA=7.5810763889
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=886788.0000000000 
+ ClocksPerAcccessToA=8.6600390625
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1277872.0000000000 
+ ClocksPerAcccessToA=8.3194791667
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=6960608.0000000000 
+ ClocksPerAcccessToA=16.9936718750
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=14960014.0000000000 
+ ClocksPerAcccessToA=18.2617358398
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=30299376.0000000000 
+ ClocksPerAcccessToA=18.4932714844
+
+Parameters:D=1024,L=384,R=384
+ Clocks=35486.0000000000 
+ ClocksPerAcccessToA=9.2411458333
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=106242.0000000000 
+ ClocksPerAcccessToA=9.2223958333
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2280480.0000000000 
+ ClocksPerAcccessToA=22.2703125000
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3654832.0000000000 
+ ClocksPerAcccessToA=23.7944791667
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9958698.0000000000 
+ ClocksPerAcccessToA=24.3132275391
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19631298.0000000000 
+ ClocksPerAcccessToA=23.9639868164
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=40277326.0000000000 
+ ClocksPerAcccessToA=24.5833288574
+
+Parameters:D=1,L=384,R=3065
+ Clocks=219436.0000000000 
+ ClocksPerAcccessToA=7.1594127243
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=659872.0000000000 
+ ClocksPerAcccessToA=7.1655119991
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5877136.0000000000 
+ ClocksPerAcccessToA=7.1748513667
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8824782.0000000000 
+ ClocksPerAcccessToA=7.1820351094
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23582494.0000000000 
+ ClocksPerAcccessToA=7.1969597739
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47191450.0000000000 
+ ClocksPerAcccessToA=7.2009207252
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94323482.0000000000 
+ ClocksPerAcccessToA=7.1963490100
+
+Parameters:D=8,L=384,R=384
+ Clocks=27358.0000000000 
+ ClocksPerAcccessToA=7.1244791667
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83226.0000000000 
+ ClocksPerAcccessToA=7.2244791667
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=741314.0000000000 
+ ClocksPerAcccessToA=7.2393945313
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1121728.0000000000 
+ ClocksPerAcccessToA=7.3029166667
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=3013492.0000000000 
+ ClocksPerAcccessToA=7.3571582031
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=6012154.0000000000 
+ ClocksPerAcccessToA=7.3390551758
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=12016652.0000000000 
+ ClocksPerAcccessToA=7.3343823242
+
+Parameters:D=32,L=384,R=384
+ Clocks=27770.0000000000 
+ ClocksPerAcccessToA=7.2317708333
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83718.0000000000 
+ ClocksPerAcccessToA=7.2671875000
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=848704.0000000000 
+ ClocksPerAcccessToA=8.2881250000
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1176654.0000000000 
+ ClocksPerAcccessToA=7.6605078125
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3347002.0000000000 
+ ClocksPerAcccessToA=8.1713916016
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8598838.0000000000 
+ ClocksPerAcccessToA=10.4966284180
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27854138.0000000000 
+ ClocksPerAcccessToA=17.0008166504
+
+Parameters:D=128,L=384,R=384
+ Clocks=28198.0000000000 
+ ClocksPerAcccessToA=7.3432291667
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=89668.0000000000 
+ ClocksPerAcccessToA=7.7836805556
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=883808.0000000000 
+ ClocksPerAcccessToA=8.6309375000
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1277546.0000000000 
+ ClocksPerAcccessToA=8.3173567708
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=6848908.0000000000 
+ ClocksPerAcccessToA=16.7209667969
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=14608430.0000000000 
+ ClocksPerAcccessToA=17.8325561523
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=30437550.0000000000 
+ ClocksPerAcccessToA=18.5776062012
+
+Parameters:D=1024,L=384,R=384
+ Clocks=44870.0000000000 
+ ClocksPerAcccessToA=11.6848958333
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=108240.0000000000 
+ ClocksPerAcccessToA=9.3958333333
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2375244.0000000000 
+ ClocksPerAcccessToA=23.1957421875
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3578354.0000000000 
+ ClocksPerAcccessToA=23.2965755208
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9953936.0000000000 
+ ClocksPerAcccessToA=24.3016015625
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19617024.0000000000 
+ ClocksPerAcccessToA=23.9465625000
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39846316.0000000000 
+ ClocksPerAcccessToA=24.3202612305
+
+Parameters:D=1,L=384,R=3065
+ Clocks=219368.0000000000 
+ ClocksPerAcccessToA=7.1571941272
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=669602.0000000000 
+ ClocksPerAcccessToA=7.2711695081
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5889944.0000000000 
+ ClocksPerAcccessToA=7.1904874684
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8825742.0000000000 
+ ClocksPerAcccessToA=7.1828164039
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23559432.0000000000 
+ ClocksPerAcccessToA=7.1899216597
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47297554.0000000000 
+ ClocksPerAcccessToA=7.2171110836
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94374332.0000000000 
+ ClocksPerAcccessToA=7.2002285779
+
+Parameters:D=8,L=384,R=384
+ Clocks=27322.0000000000 
+ ClocksPerAcccessToA=7.1151041667
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83296.0000000000 
+ ClocksPerAcccessToA=7.2305555556
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=743438.0000000000 
+ ClocksPerAcccessToA=7.2601367188
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1121830.0000000000 
+ ClocksPerAcccessToA=7.3035807292
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=3071234.0000000000 
+ ClocksPerAcccessToA=7.4981298828
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=5994138.0000000000 
+ ClocksPerAcccessToA=7.3170629883
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=12047292.0000000000 
+ ClocksPerAcccessToA=7.3530834961
+
+Parameters:D=32,L=384,R=384
+ Clocks=27816.0000000000 
+ ClocksPerAcccessToA=7.2437500000
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83846.0000000000 
+ ClocksPerAcccessToA=7.2782986111
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=845436.0000000000 
+ ClocksPerAcccessToA=8.2562109375
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1184884.0000000000 
+ ClocksPerAcccessToA=7.7140885417
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3343614.0000000000 
+ ClocksPerAcccessToA=8.1631201172
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8603676.0000000000 
+ ClocksPerAcccessToA=10.5025341797
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27772702.0000000000 
+ ClocksPerAcccessToA=16.9511120605
+
+Parameters:D=128,L=384,R=384
+ Clocks=28398.0000000000 
+ ClocksPerAcccessToA=7.3953125000
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=88536.0000000000 
+ ClocksPerAcccessToA=7.6854166667
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=912612.0000000000 
+ ClocksPerAcccessToA=8.9122265625
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1240806.0000000000 
+ ClocksPerAcccessToA=8.0781640625
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=6872130.0000000000 
+ ClocksPerAcccessToA=16.7776611328
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=14944048.0000000000 
+ ClocksPerAcccessToA=18.2422460938
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=30239940.0000000000 
+ ClocksPerAcccessToA=18.4569946289
+
+Parameters:D=1024,L=384,R=384
+ Clocks=39666.0000000000 
+ ClocksPerAcccessToA=10.3296875000
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=109502.0000000000 
+ ClocksPerAcccessToA=9.5053819444
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2236854.0000000000 
+ ClocksPerAcccessToA=21.8442773438
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3600540.0000000000 
+ ClocksPerAcccessToA=23.4410156250
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9926358.0000000000 
+ ClocksPerAcccessToA=24.2342724609
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19573782.0000000000 
+ ClocksPerAcccessToA=23.8937768555
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39939070.0000000000 
+ ClocksPerAcccessToA=24.3768737793
+
+Parameters:D=1,L=384,R=3065
+ Clocks=219344.0000000000 
+ ClocksPerAcccessToA=7.1564110930
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=669040.0000000000 
+ ClocksPerAcccessToA=7.2650667825
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5886280.0000000000 
+ ClocksPerAcccessToA=7.1860144299
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8826152.0000000000 
+ ClocksPerAcccessToA=7.1831500818
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23650810.0000000000 
+ ClocksPerAcccessToA=7.2178086080
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47207440.0000000000 
+ ClocksPerAcccessToA=7.2033606316
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94336930.0000000000 
+ ClocksPerAcccessToA=7.1973750165
+
+Parameters:D=8,L=384,R=384
+ Clocks=27356.0000000000 
+ ClocksPerAcccessToA=7.1239583333
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83286.0000000000 
+ ClocksPerAcccessToA=7.2296875000
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=743066.0000000000 
+ ClocksPerAcccessToA=7.2565039062
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1124546.0000000000 
+ ClocksPerAcccessToA=7.3212630208
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=3012174.0000000000 
+ ClocksPerAcccessToA=7.3539404297
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=6032794.0000000000 
+ ClocksPerAcccessToA=7.3642504883
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=12009616.0000000000 
+ ClocksPerAcccessToA=7.3300878906
+
+Parameters:D=32,L=384,R=384
+ Clocks=27816.0000000000 
+ ClocksPerAcccessToA=7.2437500000
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83884.0000000000 
+ ClocksPerAcccessToA=7.2815972222
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=790544.0000000000 
+ ClocksPerAcccessToA=7.7201562500
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1219450.0000000000 
+ ClocksPerAcccessToA=7.9391276042
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3376230.0000000000 
+ ClocksPerAcccessToA=8.2427490234
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8227808.0000000000 
+ ClocksPerAcccessToA=10.0437109375
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27842354.0000000000 
+ ClocksPerAcccessToA=16.9936242676
+
+Parameters:D=128,L=384,R=384
+ Clocks=28102.0000000000 
+ ClocksPerAcccessToA=7.3182291667
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=89220.0000000000 
+ ClocksPerAcccessToA=7.7447916667
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=893262.0000000000 
+ ClocksPerAcccessToA=8.7232617188
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1247872.0000000000 
+ ClocksPerAcccessToA=8.1241666667
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=7120702.0000000000 
+ ClocksPerAcccessToA=17.3845263672
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=15029718.0000000000 
+ ClocksPerAcccessToA=18.3468237305
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=31049112.0000000000 
+ ClocksPerAcccessToA=18.9508740234
+
+Parameters:D=1024,L=384,R=384
+ Clocks=39020.0000000000 
+ ClocksPerAcccessToA=10.1614583333
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=110966.0000000000 
+ ClocksPerAcccessToA=9.6324652778
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2407188.0000000000 
+ ClocksPerAcccessToA=23.5076953125
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3647436.0000000000 
+ ClocksPerAcccessToA=23.7463281250
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9954530.0000000000 
+ ClocksPerAcccessToA=24.3030517578
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19709484.0000000000 
+ ClocksPerAcccessToA=24.0594287109
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39730418.0000000000 
+ ClocksPerAcccessToA=24.2495227051
+
+Parameters:D=1,L=384,R=3065
+ Clocks=219214.0000000000 
+ ClocksPerAcccessToA=7.1521696574
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=659918.0000000000 
+ ClocksPerAcccessToA=7.1660115105
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5881658.0000000000 
+ ClocksPerAcccessToA=7.1803718579
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8827660.0000000000 
+ ClocksPerAcccessToA=7.1843773652
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23639280.0000000000 
+ ClocksPerAcccessToA=7.2142898560
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47380080.0000000000 
+ ClocksPerAcccessToA=7.2297036864
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94333736.0000000000 
+ ClocksPerAcccessToA=7.1971313323
+
+Parameters:D=8,L=384,R=384
+ Clocks=27302.0000000000 
+ ClocksPerAcccessToA=7.1098958333
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83242.0000000000 
+ ClocksPerAcccessToA=7.2258680556
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=748782.0000000000 
+ ClocksPerAcccessToA=7.3123242187
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1112886.0000000000 
+ ClocksPerAcccessToA=7.2453515625
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=3024116.0000000000 
+ ClocksPerAcccessToA=7.3830957031
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=6038130.0000000000 
+ ClocksPerAcccessToA=7.3707641602
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=11992554.0000000000 
+ ClocksPerAcccessToA=7.3196740723
+
+Parameters:D=32,L=384,R=384
+ Clocks=27864.0000000000 
+ ClocksPerAcccessToA=7.2562500000
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83666.0000000000 
+ ClocksPerAcccessToA=7.2626736111
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=788494.0000000000 
+ ClocksPerAcccessToA=7.7001367187
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1198700.0000000000 
+ ClocksPerAcccessToA=7.8040364583
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3378134.0000000000 
+ ClocksPerAcccessToA=8.2473974609
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8638306.0000000000 
+ ClocksPerAcccessToA=10.5448071289
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27695968.0000000000 
+ ClocksPerAcccessToA=16.9042773437
+
+Parameters:D=128,L=384,R=384
+ Clocks=28082.0000000000 
+ ClocksPerAcccessToA=7.3130208333
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=88346.0000000000 
+ ClocksPerAcccessToA=7.6689236111
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=914122.0000000000 
+ ClocksPerAcccessToA=8.9269726562
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1235388.0000000000 
+ ClocksPerAcccessToA=8.0428906250
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=6894684.0000000000 
+ ClocksPerAcccessToA=16.8327246094
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=14486038.0000000000 
+ ClocksPerAcccessToA=17.6831518555
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=30444392.0000000000 
+ ClocksPerAcccessToA=18.5817822266
+
+Parameters:D=1024,L=384,R=384
+ Clocks=62680.0000000000 
+ ClocksPerAcccessToA=16.3229166667
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=112440.0000000000 
+ ClocksPerAcccessToA=9.7604166667
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2302804.0000000000 
+ ClocksPerAcccessToA=22.4883203125
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3602148.0000000000 
+ ClocksPerAcccessToA=23.4514843750
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9773576.0000000000 
+ ClocksPerAcccessToA=23.8612695312
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19947734.0000000000 
+ ClocksPerAcccessToA=24.3502612305
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39571158.0000000000 
+ ClocksPerAcccessToA=24.1523181152
+
+Parameters:D=1,L=384,R=3065
+ Clocks=219218.0000000000 
+ ClocksPerAcccessToA=7.1523001631
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=659800.0000000000 
+ ClocksPerAcccessToA=7.1647301553
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5883016.0000000000 
+ ClocksPerAcccessToA=7.1820297145
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8822120.0000000000 
+ ClocksPerAcccessToA=7.1798686449
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23629208.0000000000 
+ ClocksPerAcccessToA=7.2112160599
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47323896.0000000000 
+ ClocksPerAcccessToA=7.2211305968
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94352770.0000000000 
+ ClocksPerAcccessToA=7.1985835190
+
+Parameters:D=8,L=384,R=384
+ Clocks=27358.0000000000 
+ ClocksPerAcccessToA=7.1244791667
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83558.0000000000 
+ ClocksPerAcccessToA=7.2532986111
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=744084.0000000000 
+ ClocksPerAcccessToA=7.2664453125
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1118858.0000000000 
+ ClocksPerAcccessToA=7.2842317708
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=2999522.0000000000 
+ ClocksPerAcccessToA=7.3230517578
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=6020684.0000000000 
+ ClocksPerAcccessToA=7.3494677734
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=11973720.0000000000 
+ ClocksPerAcccessToA=7.3081787109
+
+Parameters:D=32,L=384,R=384
+ Clocks=27792.0000000000 
+ ClocksPerAcccessToA=7.2375000000
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83684.0000000000 
+ ClocksPerAcccessToA=7.2642361111
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=845586.0000000000 
+ ClocksPerAcccessToA=8.2576757813
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1195176.0000000000 
+ ClocksPerAcccessToA=7.7810937500
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3430238.0000000000 
+ ClocksPerAcccessToA=8.3746044922
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8531922.0000000000 
+ ClocksPerAcccessToA=10.4149438477
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27775756.0000000000 
+ ClocksPerAcccessToA=16.9529760742
+
+Parameters:D=128,L=384,R=384
+ Clocks=28418.0000000000 
+ ClocksPerAcccessToA=7.4005208333
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=90940.0000000000 
+ ClocksPerAcccessToA=7.8940972222
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=931752.0000000000 
+ ClocksPerAcccessToA=9.0991406250
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1270046.0000000000 
+ ClocksPerAcccessToA=8.2685286458
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=6966718.0000000000 
+ ClocksPerAcccessToA=17.0085888672
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=14629268.0000000000 
+ ClocksPerAcccessToA=17.8579931641
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=29837560.0000000000 
+ ClocksPerAcccessToA=18.2114013672
+
+Parameters:D=1024,L=384,R=384
+ Clocks=69940.0000000000 
+ ClocksPerAcccessToA=18.2135416667
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=108346.0000000000 
+ ClocksPerAcccessToA=9.4050347222
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2382580.0000000000 
+ ClocksPerAcccessToA=23.2673828125
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3614216.0000000000 
+ ClocksPerAcccessToA=23.5300520833
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9861648.0000000000 
+ ClocksPerAcccessToA=24.0762890625
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19928194.0000000000 
+ ClocksPerAcccessToA=24.3264086914
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39277676.0000000000 
+ ClocksPerAcccessToA=23.9731909180
+
+Parameters:D=1,L=384,R=3065
+ Clocks=219332.0000000000 
+ ClocksPerAcccessToA=7.1560195759
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=659826.0000000000 
+ ClocksPerAcccessToA=7.1650124878
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5879134.0000000000 
+ ClocksPerAcccessToA=7.1772905400
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8830408.0000000000 
+ ClocksPerAcccessToA=7.1866138208
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23599276.0000000000 
+ ClocksPerAcccessToA=7.2020813433
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47211640.0000000000 
+ ClocksPerAcccessToA=7.2040015076
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94279400.0000000000 
+ ClocksPerAcccessToA=7.1929858024
+
+Parameters:D=8,L=384,R=384
+ Clocks=27322.0000000000 
+ ClocksPerAcccessToA=7.1151041667
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83248.0000000000 
+ ClocksPerAcccessToA=7.2263888889
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=744316.0000000000 
+ ClocksPerAcccessToA=7.2687109375
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1123680.0000000000 
+ ClocksPerAcccessToA=7.3156250000
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=3040730.0000000000 
+ ClocksPerAcccessToA=7.4236572266
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=5989752.0000000000 
+ ClocksPerAcccessToA=7.3117089844
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=12046932.0000000000 
+ ClocksPerAcccessToA=7.3528637695
+
+Parameters:D=32,L=384,R=384
+ Clocks=27850.0000000000 
+ ClocksPerAcccessToA=7.2526041667
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83906.0000000000 
+ ClocksPerAcccessToA=7.2835069444
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=864854.0000000000 
+ ClocksPerAcccessToA=8.4458398438
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1185058.0000000000 
+ ClocksPerAcccessToA=7.7152213542
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3453050.0000000000 
+ ClocksPerAcccessToA=8.4302978516
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8548638.0000000000 
+ ClocksPerAcccessToA=10.4353491211
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27687756.0000000000 
+ ClocksPerAcccessToA=16.8992651367
+
+Parameters:D=128,L=384,R=384
+ Clocks=28070.0000000000 
+ ClocksPerAcccessToA=7.3098958333
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=87364.0000000000 
+ ClocksPerAcccessToA=7.5836805556
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=889960.0000000000 
+ ClocksPerAcccessToA=8.6910156250
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1223712.0000000000 
+ ClocksPerAcccessToA=7.9668750000
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=7049034.0000000000 
+ ClocksPerAcccessToA=17.2095556641
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=14970366.0000000000 
+ ClocksPerAcccessToA=18.2743725586
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=30039182.0000000000 
+ ClocksPerAcccessToA=18.3344616699
+
+Parameters:D=1024,L=384,R=384
+ Clocks=78448.0000000000 
+ ClocksPerAcccessToA=20.4291666667
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=105234.0000000000 
+ ClocksPerAcccessToA=9.1348958333
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2403466.0000000000 
+ ClocksPerAcccessToA=23.4713476562
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3609662.0000000000 
+ ClocksPerAcccessToA=23.5004036458
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9894098.0000000000 
+ ClocksPerAcccessToA=24.1555126953
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19836466.0000000000 
+ ClocksPerAcccessToA=24.2144360352
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39245038.0000000000 
+ ClocksPerAcccessToA=23.9532702637
+
+Parameters:D=1,L=384,R=3065
+ Clocks=219396.0000000000 
+ ClocksPerAcccessToA=7.1581076672
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=692002.0000000000 
+ ClocksPerAcccessToA=7.5144098165
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5883388.0000000000 
+ ClocksPerAcccessToA=7.1824838548
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8826946.0000000000 
+ ClocksPerAcccessToA=7.1837962775
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23698088.0000000000 
+ ClocksPerAcccessToA=7.2322370168
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47171726.0000000000 
+ ClocksPerAcccessToA=7.1979110495
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94295272.0000000000 
+ ClocksPerAcccessToA=7.1941967464
+
+Parameters:D=8,L=384,R=384
+ Clocks=27376.0000000000 
+ ClocksPerAcccessToA=7.1291666667
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83508.0000000000 
+ ClocksPerAcccessToA=7.2489583333
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=744826.0000000000 
+ ClocksPerAcccessToA=7.2736914063
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1116246.0000000000 
+ ClocksPerAcccessToA=7.2672265625
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=3009418.0000000000 
+ ClocksPerAcccessToA=7.3472119141
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=5999382.0000000000 
+ ClocksPerAcccessToA=7.3234643555
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=12044176.0000000000 
+ ClocksPerAcccessToA=7.3511816406
+
+Parameters:D=32,L=384,R=384
+ Clocks=27770.0000000000 
+ ClocksPerAcccessToA=7.2317708333
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83628.0000000000 
+ ClocksPerAcccessToA=7.2593750000
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=805854.0000000000 
+ ClocksPerAcccessToA=7.8696679687
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1190246.0000000000 
+ ClocksPerAcccessToA=7.7489973958
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3403458.0000000000 
+ ClocksPerAcccessToA=8.3092236328
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8445640.0000000000 
+ ClocksPerAcccessToA=10.3096191406
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27675364.0000000000 
+ ClocksPerAcccessToA=16.8917016602
+
+Parameters:D=128,L=384,R=384
+ Clocks=28190.0000000000 
+ ClocksPerAcccessToA=7.3411458333
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=87552.0000000000 
+ ClocksPerAcccessToA=7.6000000000
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=873392.0000000000 
+ ClocksPerAcccessToA=8.5292187500
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1289786.0000000000 
+ ClocksPerAcccessToA=8.3970442708
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=6933962.0000000000 
+ ClocksPerAcccessToA=16.9286181641
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=14921090.0000000000 
+ ClocksPerAcccessToA=18.2142211914
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=30172278.0000000000 
+ ClocksPerAcccessToA=18.4156970215
+
+Parameters:D=1024,L=384,R=384
+ Clocks=35658.0000000000 
+ ClocksPerAcccessToA=9.2859375000
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=105764.0000000000 
+ ClocksPerAcccessToA=9.1809027778
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2344694.0000000000 
+ ClocksPerAcccessToA=22.8974023437
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3611012.0000000000 
+ ClocksPerAcccessToA=23.5091927083
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9965224.0000000000 
+ ClocksPerAcccessToA=24.3291601563
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19692696.0000000000 
+ ClocksPerAcccessToA=24.0389355469
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39886472.0000000000 
+ ClocksPerAcccessToA=24.3447705078
+
+Parameters:D=1,L=384,R=3065
+ Clocks=249814.0000000000 
+ ClocksPerAcccessToA=8.1505383361
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=659990.0000000000 
+ ClocksPerAcccessToA=7.1667933543
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5878182.0000000000 
+ ClocksPerAcccessToA=7.1761283313
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8825952.0000000000 
+ ClocksPerAcccessToA=7.1829873121
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23640472.0000000000 
+ ClocksPerAcccessToA=7.2146536333
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47410986.0000000000 
+ ClocksPerAcccessToA=7.2344196181
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94337334.0000000000 
+ ClocksPerAcccessToA=7.1974058394
+
+Parameters:D=8,L=384,R=384
+ Clocks=27382.0000000000 
+ ClocksPerAcccessToA=7.1307291667
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=83446.0000000000 
+ ClocksPerAcccessToA=7.2435763889
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=748044.0000000000 
+ ClocksPerAcccessToA=7.3051171875
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1133552.0000000000 
+ ClocksPerAcccessToA=7.3798958333
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=2994928.0000000000 
+ ClocksPerAcccessToA=7.3118359375
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=6069418.0000000000 
+ ClocksPerAcccessToA=7.4089575195
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=12021194.0000000000 
+ ClocksPerAcccessToA=7.3371545410
+
+Parameters:D=32,L=384,R=384
+ Clocks=27926.0000000000 
+ ClocksPerAcccessToA=7.2723958333
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83702.0000000000 
+ ClocksPerAcccessToA=7.2657986111
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=793434.0000000000 
+ ClocksPerAcccessToA=7.7483789063
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1267000.0000000000 
+ ClocksPerAcccessToA=8.2486979167
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3445676.0000000000 
+ ClocksPerAcccessToA=8.4122949219
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8109142.0000000000 
+ ClocksPerAcccessToA=9.8988549805
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27737382.0000000000 
+ ClocksPerAcccessToA=16.9295544434
+
+Parameters:D=128,L=384,R=384
+ Clocks=28160.0000000000 
+ ClocksPerAcccessToA=7.3333333333
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=88410.0000000000 
+ ClocksPerAcccessToA=7.6744791667
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=873760.0000000000 
+ ClocksPerAcccessToA=8.5328125000
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1244306.0000000000 
+ ClocksPerAcccessToA=8.1009505208
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=6870186.0000000000 
+ ClocksPerAcccessToA=16.7729150391
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=14773782.0000000000 
+ ClocksPerAcccessToA=18.0344018555
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=30221710.0000000000 
+ ClocksPerAcccessToA=18.4458679199
+
+Parameters:D=1024,L=384,R=384
+ Clocks=36208.0000000000 
+ ClocksPerAcccessToA=9.4291666667
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=110488.0000000000 
+ ClocksPerAcccessToA=9.5909722222
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2457956.0000000000 
+ ClocksPerAcccessToA=24.0034765625
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3610488.0000000000 
+ ClocksPerAcccessToA=23.5057812500
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9943156.0000000000 
+ ClocksPerAcccessToA=24.2752832031
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19571056.0000000000 
+ ClocksPerAcccessToA=23.8904492187
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39979036.0000000000 
+ ClocksPerAcccessToA=24.4012670898
+
+Parameters:D=1,L=384,R=3065
+ Clocks=219272.0000000000 
+ ClocksPerAcccessToA=7.1540619902
+
+Parameters:D=1,L=1152,R=9209
+ Clocks=659826.0000000000 
+ ClocksPerAcccessToA=7.1650124878
+
+Parameters:D=1,L=10240,R=81913
+ Clocks=5882996.0000000000 
+ ClocksPerAcccessToA=7.1820052983
+
+Parameters:D=1,L=15360,R=122873
+ Clocks=8823118.0000000000 
+ ClocksPerAcccessToA=7.1806808656
+
+Parameters:D=1,L=40960,R=327673
+ Clocks=23654724.0000000000 
+ ClocksPerAcccessToA=7.2190030915
+
+Parameters:D=1,L=81920,R=655353
+ Clocks=47208700.0000000000 
+ ClocksPerAcccessToA=7.2035528944
+
+Parameters:D=1,L=163840,R=1310713
+ Clocks=94363358.0000000000 
+ ClocksPerAcccessToA=7.1993913237
+
+Parameters:D=8,L=384,R=384
+ Clocks=27362.0000000000 
+ ClocksPerAcccessToA=7.1255208333
+
+Parameters:D=8,L=1152,R=1152
+ Clocks=84128.0000000000 
+ ClocksPerAcccessToA=7.3027777778
+
+Parameters:D=8,L=10240,R=10240
+ Clocks=748978.0000000000 
+ ClocksPerAcccessToA=7.3142382812
+
+Parameters:D=8,L=15360,R=15360
+ Clocks=1118134.0000000000 
+ ClocksPerAcccessToA=7.2795182292
+
+Parameters:D=8,L=40960,R=40960
+ Clocks=3073216.0000000000 
+ ClocksPerAcccessToA=7.5029687500
+
+Parameters:D=8,L=81920,R=81920
+ Clocks=6037114.0000000000 
+ ClocksPerAcccessToA=7.3695239258
+
+Parameters:D=8,L=163840,R=163840
+ Clocks=12004568.0000000000 
+ ClocksPerAcccessToA=7.3270068359
+
+Parameters:D=32,L=384,R=384
+ Clocks=27852.0000000000 
+ ClocksPerAcccessToA=7.2531250000
+
+Parameters:D=32,L=1152,R=1152
+ Clocks=83828.0000000000 
+ ClocksPerAcccessToA=7.2767361111
+
+Parameters:D=32,L=10240,R=10240
+ Clocks=855724.0000000000 
+ ClocksPerAcccessToA=8.3566796875
+
+Parameters:D=32,L=15360,R=15360
+ Clocks=1176726.0000000000 
+ ClocksPerAcccessToA=7.6609765625
+
+Parameters:D=32,L=40960,R=40960
+ Clocks=3322988.0000000000 
+ ClocksPerAcccessToA=8.1127636719
+
+Parameters:D=32,L=81920,R=81920
+ Clocks=8651548.0000000000 
+ ClocksPerAcccessToA=10.5609716797
+
+Parameters:D=32,L=163840,R=163840
+ Clocks=27775700.0000000000 
+ ClocksPerAcccessToA=16.9529418945
+
+Parameters:D=128,L=384,R=384
+ Clocks=28240.0000000000 
+ ClocksPerAcccessToA=7.3541666667
+
+Parameters:D=128,L=1152,R=1152
+ Clocks=89026.0000000000 
+ ClocksPerAcccessToA=7.7279513889
+
+Parameters:D=128,L=10240,R=10240
+ Clocks=917020.0000000000 
+ ClocksPerAcccessToA=8.9552734375
+
+Parameters:D=128,L=15360,R=15360
+ Clocks=1239242.0000000000 
+ ClocksPerAcccessToA=8.0679817708
+
+Parameters:D=128,L=40960,R=40960
+ Clocks=6576814.0000000000 
+ ClocksPerAcccessToA=16.0566748047
+
+Parameters:D=128,L=81920,R=81920
+ Clocks=15044848.0000000000 
+ ClocksPerAcccessToA=18.3652929688
+
+Parameters:D=128,L=163840,R=163840
+ Clocks=30224722.0000000000 
+ ClocksPerAcccessToA=18.4477062988
+
+Parameters:D=1024,L=384,R=384
+ Clocks=38774.0000000000 
+ ClocksPerAcccessToA=10.0973958333
+
+Parameters:D=1024,L=1152,R=1152
+ Clocks=110056.0000000000 
+ ClocksPerAcccessToA=9.5534722222
+
+Parameters:D=1024,L=10240,R=10240
+ Clocks=2357938.0000000000 
+ ClocksPerAcccessToA=23.0267382813
+
+Parameters:D=1024,L=15360,R=15360
+ Clocks=3635312.0000000000 
+ ClocksPerAcccessToA=23.6673958333
+
+Parameters:D=1024,L=40960,R=40960
+ Clocks=9935520.0000000000 
+ ClocksPerAcccessToA=24.2566406250
+
+Parameters:D=1024,L=81920,R=81920
+ Clocks=19652040.0000000000 
+ ClocksPerAcccessToA=23.9893066406
+
+Parameters:D=1024,L=163840,R=163840
+ Clocks=39886566.0000000000 
+ ClocksPerAcccessToA=24.3448278809
+
+
+*****************************************************************************
+*                                                                           *
+*                    JOB EFFICIENCY REPORT (seff 6159453)                   *
+*                                                                           *
+*****************************************************************************
+
+Job ID: 6159453
+Cluster: finisterrae3
+User/Group: cursoa09/usc
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 64
+CPU Utilized: 00:00:50
+CPU Efficiency: 1.50% of 00:55:28 core-walltime
+Job Wall-clock time: 00:00:52
+Memory Utilized: 1022.36 MB
+Memory Efficiency: 0.39% of 256.00 GB
+
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ ++   Memory Efficiency is too small. Please review the requested memory. ++
+ ++ It seems that you do not need that much memory so we recommend        ++
+ ++ requesting less memory in other similar jobs.                         ++
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+*****************************************************************************
+
