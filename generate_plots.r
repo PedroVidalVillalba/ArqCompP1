@@ -6,11 +6,12 @@ means = means[order(means$D, means$L, means$R), ]
 sds = sds[order(sds$D, sds$L, sds$R), ]
 
 plot(means$L, means$ClocksPerAccess, pch = 19, col = factor(means$D),
-     main = "Medidas de rendimiento en accesos a memoria",
-     xlab = "Número de líneas caché leídas (L)",
+     main = "Medidas de rendimiento en accesos a memoria\n(double, acceso directo)",
+     xlab = "\nNúmero de líneas caché leídas (L)",
      ylab = "Ciclos de reloj por acceso",
-     xaxt = 'n', log = "x")
-axis(side = 1, at = unique(means$L), las = 2)
+     ylim = c(6, 27),
+     xaxt = 'n')
+axis(side = 1, at = unique(means$L), las = 3)
 
 i = 1
 for (D in unique(means$D)) {
